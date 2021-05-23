@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/timur/Рабочий стол/Programms/A-star/main.cpp
+iostream
+-
+array
+-
+utility
+-
+vector
+-
+unordered_set
+-
+queue
+-
+cmath
+-
+string
+-
+unordered_map
+-
+

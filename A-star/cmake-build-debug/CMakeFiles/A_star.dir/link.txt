@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/A_star.dir/main.cpp.o -o A_star 

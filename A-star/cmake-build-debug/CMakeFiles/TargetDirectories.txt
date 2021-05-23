@@ -1,0 +1,3 @@
+/home/timur/Рабочий стол/Programms/A-star/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/timur/Рабочий стол/Programms/A-star/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timur/Рабочий стол/Programms/A-star/cmake-build-debug/CMakeFiles/A_star.dir
