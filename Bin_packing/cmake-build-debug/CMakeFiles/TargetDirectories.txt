@@ -1,0 +1,3 @@
+/home/timur/Рабочий стол/Programms/Bin_packing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/timur/Рабочий стол/Programms/Bin_packing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timur/Рабочий стол/Programms/Bin_packing/cmake-build-debug/CMakeFiles/Bin_packing.dir
