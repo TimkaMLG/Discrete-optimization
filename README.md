@@ -1,0 +1,2 @@
+# Disco
+Discrete optimization course 
